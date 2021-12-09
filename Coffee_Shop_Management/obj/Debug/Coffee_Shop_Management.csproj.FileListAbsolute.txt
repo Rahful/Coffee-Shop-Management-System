@@ -1,0 +1,28 @@
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe.config
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.pdb
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csprojAssemblyReference.cache
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Form1.resources
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Properties.Resources.resources
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.GenerateResource.cache
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.CoreCompileInputs.cache
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.exe
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.pdb
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Register.resources
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Home.resources
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.CoffeeList.resources
+D:\Career\PAID WORK\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Seller.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe.config
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.pdb
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csprojAssemblyReference.cache
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.CoffeeList.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Form1.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Home.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Properties.Resources.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Register.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.Seller.resources
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.GenerateResource.cache
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.CoreCompileInputs.cache
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.exe
+C:\Users\Rahfu\OneDrive\Desktop\Aiub\Coffee_Shop_Management\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.pdb
